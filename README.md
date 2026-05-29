@@ -22,5 +22,3 @@ The project demonstrates complete CRUD (Create, Read, Update, Delete) operations
 * REST API implementation
 * Usage of latest Spring Boot annotations
 * Layered architecture (Controller, Service, Repository)
-
-This repository reflects my hands-on practice and continuous learning in Java backend development.
